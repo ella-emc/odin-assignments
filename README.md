@@ -1,5 +1,5 @@
 # odin-assignments
-This repository contains my coding assignments and exercises in The Odin Project lessons.
+This repository contains my coding assignments in The Odin Project lessons.
 
 
 Assignment log:
